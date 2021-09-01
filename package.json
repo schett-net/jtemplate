@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
     "@snek-at/jaen": "^2.0.0-beta.9",
     "@snek-at/jaen-pages": "^2.0.0-beta.9",
     "electron": "^14.0.0",
