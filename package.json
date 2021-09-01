@@ -5,8 +5,9 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "@snek-at/jaen": "../jaen/packages/jaen",
-    "@snek-at/jaen-pages": "../jaen/packages/jaen-pages/",
+    "@snek-at/jaen": "^2.0.0-beta.9",
+    "@snek-at/jaen-pages": "^2.0.0-beta.9",
+    "electron": "^14.0.0",
     "gatsby": "^3.12.1",
     "gatsby-plugin-gatsby-cloud": "^2.11.0",
     "gatsby-plugin-image": "^1.12.0",

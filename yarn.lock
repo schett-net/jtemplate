@@ -3041,8 +3041,10 @@
     "@chakra-ui/react" "^1.6.6"
     gatsby "^3.12.0"
 
-"@snek-at/jaen-pages@../jaen/packages/jaen-pages":
+"@snek-at/jaen-pages@^2.0.0-beta.9":
   version "2.0.0-beta.9"
+  resolved "https://registry.yarnpkg.com/@snek-at/jaen-pages/-/jaen-pages-2.0.0-beta.9.tgz#d4f8de329b1f2d03659c27e4a07aafe3fba4be01"
+  integrity sha512-EZc/nmWmgbK3ihfG/pgluJr07Fs72a/NBMWhxw5SdwWxcaM//GKL41UBS7CQcufWk3ecd9DpQQ0ifZS/gjsk2w==
   dependencies:
     "@chakra-ui/icons" "^1.0.15"
     "@chakra-ui/react" "^1.6.6"
@@ -3058,39 +3060,6 @@
     "@snek-at/jaen-shared-ui" "2.0.0-beta.3"
     "@snek-at/snek-finder" "^1.0.0-beta.9"
     deepmerge "^4.2.2"
-    electron "^14.0.0"
-    esm "^3.2.25"
-    framer-motion "^4.1.17"
-    gatsby-plugin-compile-es6-packages "^2.1.1"
-    gatsby-plugin-image "^1.12.0"
-    gatsby-plugin-sharp "^3.12.0"
-    gatsby-transformer-sharp "^3.12.0"
-    immutability-helper "^3.1.1"
-    ipfs-http-client "^52.0.2"
-    juice "^8.0.0"
-    lodash "^4.17.21"
-    react "^17.0.2"
-    react-redux "^7.2.4"
-    uuid "^8.3.2"
-
-"@snek-at/jaen-pages@../jaen/packages/jaen-pages/":
-  version "2.0.0-beta.9"
-  dependencies:
-    "@chakra-ui/icons" "^1.0.15"
-    "@chakra-ui/react" "^1.6.6"
-    "@ckeditor/ckeditor5-build-balloon" "^29.1.0"
-    "@ckeditor/ckeditor5-react" "^3.0.2"
-    "@emotion/react" "^11.4.1"
-    "@emotion/styled" "^11.3.0"
-    "@loadable/component" "^5.15.0"
-    "@react-icons/all-files" "^4.1.0"
-    "@reduxjs/toolkit" "^1.6.1"
-    "@snek-at/gatsby-plugin-chakra-ui" "1.0.0-beta.4"
-    "@snek-at/jaen" "^2.0.0-beta.7"
-    "@snek-at/jaen-shared-ui" "2.0.0-beta.3"
-    "@snek-at/snek-finder" "^1.0.0-beta.9"
-    deepmerge "^4.2.2"
-    electron "^14.0.0"
     esm "^3.2.25"
     framer-motion "^4.1.17"
     gatsby-plugin-compile-es6-packages "^2.1.1"
@@ -3125,8 +3094,10 @@
     react-analytics-charts "^1.2.12"
     react-use-analytics-api "^1.4.16"
 
-"@snek-at/jaen@../jaen/packages/jaen", "@snek-at/jaen@^2.0.0-beta.7":
+"@snek-at/jaen@^2.0.0-beta.7", "@snek-at/jaen@^2.0.0-beta.9":
   version "2.0.0-beta.9"
+  resolved "https://registry.yarnpkg.com/@snek-at/jaen/-/jaen-2.0.0-beta.9.tgz#dfda5b3c942812e19773d42c502b027b4296dde7"
+  integrity sha512-00VrEpRX9+tzLKr7zbjw3mFgzhmmDy1HbeH0Ljgyr9qfyh4cbXhzxwLeVbnIgxtPpA9pYJ7jjoADHtkpkzSokA==
   dependencies:
     "@loadable/component" "^5.15.0"
     "@snek-at/jaen-shared-ui" "2.0.0-beta.3"
